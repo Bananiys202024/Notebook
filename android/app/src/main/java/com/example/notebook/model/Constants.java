@@ -6,7 +6,7 @@ public class Constants {
     final static String ip_host = "192.168.1.14";
 
     final static String company_email = "notebookapp486@gmail.com";
-    final static String company_password = "4MR4RXgVr5B33XH";
+    final static String company_password = "password_of_company";
 
     public static int getPORT() {
         return PORT;

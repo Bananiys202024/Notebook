@@ -4,10 +4,10 @@
 
 
 <h2>Screenshots</h2>
-<img height="500" src="screenshots/1.png">
-<img height="500" src="screenshots/3.png">
-<img height="500" src="screenshots/2.png">
-<img height="500" src="screenshots/4.png">
+<img height="500" src="screenschots/1.png">
+<img height="500" src="screenschots/3.png">
+<img height="500" src="screenschots/2.png">
+<img height="500" src="screenschots/4.png">
 
 <h2>Tuning</h2>
 

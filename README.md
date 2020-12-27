@@ -1,5 +1,7 @@
 <h2>Overwiew</h2>
-<h6>This is simple Android CRUD app. This app not for commercial use. This app just for me. Just diary for me. App is server less. App not require internet.For a while application tested only for Android 510F<h6>
+<h6>This is simple Android CRUD app. This app not for commercial use. This app just for me. Just diary for me. App is server less. App not require internet.For a while application tested only for Android 510F.
+    
+Flutter as client and Java as server side <h6>
 
 
 <h2>Screenshots</h2>

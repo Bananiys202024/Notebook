@@ -1,6 +1,5 @@
 <h2>Overwiew</h2>
-<h6>This is simple Android CRUD app. This app not for commercial use. This app just for me. Just diary for me.
-    You can use this app without server. Server only for initializing database. Application still have bugs, such as not ability to add following characters to note : ", : and so on; For a while application tested only for Android 510F<h6>
+<h6>This is simple Android CRUD app. This app not for commercial use. This app just for me. Just diary for me. App is server less. App not require internet.For a while application tested only for Android 510F<h6>
 
 
 <h2>Screenshots</h2>
@@ -9,19 +8,10 @@
 <img height="500" src="screenschots/2.png">
 <img height="500" src="screenschots/4.png">
 
-<h2>Tuning</h2>
-
-1. You need edit file GmailSender in package "src/main/java/com/example/notebook/gmail".
-2. If you wanna add database, then add file "notebook.db";
-to server project. If you wanna initialize database on android client side then you need start server and check if server and client in same network and check ip and ports on client and server side, they must be same.
-
-
-
 <h2>Frameworks and tools</h2>
 
 <h6>
-    Java&IDE: JDK8 MyEclipse2018 Androdi-Studio<br>
-    Backend: ORMLite <br>
+    Java&IDE: JDK8 Androdi-Studio<br>
     Frontend: Flutter <br>
     Database: sqlite<br>
     Build Tool: Maven Gradle<br>

@@ -31,3 +31,16 @@ Flutter as client and Java as server side <h6>
         <li>Ability import database from server</li>
    </ul> 
 </h6>
+
+
+<h6>
+To publish on play store this app, follow next instructions:
+    
+        flutter pug get; flutter pub upgrade;
+    
+        flutter pub pub run flutter_automation --android-sign
+
+        flutter build apk --release
+
+</h6>
+    

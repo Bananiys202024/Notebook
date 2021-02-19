@@ -7,6 +7,8 @@ import 'package:flutter/widgets.dart';
 import 'package:notebook/parts/warning.dart';
 import 'package:notebook/settings.dart';
 
+import '../admin_rules.dart';
+
 class NavDrawer extends StatelessWidget {
 
   static const platformMethodChannel = const MethodChannel('flutter.call.java');
@@ -84,6 +86,16 @@ class NavDrawer extends StatelessWidget {
               Navigator.of(context).pop(),
               show_warning(warning_import_text, "Import database", context),
 
+            },
+          ),
+
+          ListTile(
+            leading: Icon(Icons.input),
+            title: Text('Admin rules'),
+            onTap: () =>
+            {
+              Navigator.push(
+                  context, MaterialPageRoute(builder: (context) => AdminRulesPage())),
             },
           ),
 
